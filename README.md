@@ -13,7 +13,7 @@ This is meant to emulate what the [ejhomes/restforce gem](https://github.com/ejh
 This library requires PHP 7.1 or later; we recommend using the latest available version of PHP.
 
 ```
-$ composer require eventfarm/restforcephp
+$ composer require danone89/restforcephp
 ```
 
 Or.
@@ -23,7 +23,7 @@ Add the following lines to your ``composer.json`` file.
 ```json
 {
     "require": {
-        "eventfarm/restforcephp": "^2.0.0"
+        "danone89/restforcephp": "^2.0.0"
     }
 }
 ```
